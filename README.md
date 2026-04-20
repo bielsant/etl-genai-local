@@ -16,5 +16,7 @@ Pipeline ETL que lê dados de um CSV, gera mensagens personalizadas simulando IA
 3. Load → salva novo CSV
 
 ## ▶️ Como executar
+
 ```bash
+pip install -r requirements.txt
 python src/main.py
