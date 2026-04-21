@@ -1,6 +1,3 @@
-etl-genai-local
-Projeto ETL com Python simulando IA generativa
-
 # ETL com Python (IA Simulada)
 
 ## 📌 Descrição
